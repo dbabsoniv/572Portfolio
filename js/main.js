@@ -26,7 +26,7 @@ function optionSelect(option) {
 
     switch (option.getAttribute("id")) {
         case 'resume':
-            window.location.href = "data/resume2022PDF.pdf";
+            window.location.href = "data/2025resume.pdf";
             break;
         case 'mapwork':
             window.location.href = "mapwork.html";
